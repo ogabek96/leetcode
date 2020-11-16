@@ -1,1 +1,1 @@
-Here I will publish all the problems I solved in Leetcode.
+This repository contains leetcode problems soultions in python.
